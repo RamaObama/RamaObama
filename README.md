@@ -3,12 +3,14 @@
 ---
 ### Projects [School 21]
 ##### Current
-[C5] s21_decimal <br>
-> In this project you will implement the s21_decimal.h library in the C programming language. This library should add the ability to work with the "decimal" type, which is not in the language standard
+[C6] [s21_matrix](https://github.com/RamaObama/s21_matrix) <br>
+> In this project you will implement your own library for processing numerical matrices in the C programming language.
 ##### Finished
-1. [C2] s21_string+ [150/150]
-2. [C3] SimpleBashUtils [140/140]
-3. [C4]* s21_math [93/100]
+1. [C2] [s21_string+](https://github.com/RamaObama/s21_string_plus) [750 XP, 150%]
+2. [C3] [SimpleBashUtils](https://github.com/RamaObama/s21_cat_grep) [350 XP, 140%]
+3. [C4]* [s21_math](https://github.com/RamaObama/s21_math) [279 XP, 93%]
+4. [C5] [s21_decimal](https://github.com/RamaObama/s21_decimal) [325 XP, 93%]
+
 ---
 ### Contacts
 - Languages: Russian (Native), English (Elementary), 汉语 (HSK 4)
