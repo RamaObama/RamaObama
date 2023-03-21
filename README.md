@@ -10,7 +10,7 @@
 4. [C5] [s21_decimal](https://github.com/RamaObama/s21_decimal) [325 XP, 93%]
 5. [C6] [s21_matrix](https://github.com/RamaObama/s21_matrix) [200 XP, 100%]
 6. [C7] [SmartCalc_v1.0](https://github.com/RamaObama/s21_SmartCalc_v1.0) [645 XP, 129%]
-7. [C8] [3DViewer_v1.0](https://github.com/RamaObama/3DViewer_v1.0) [???, ???%]
+7. [C8] [3DViewer_v1.0](https://github.com/RamaObama/3DViewer_v1.0) [1043 XP, 139%]
 > [Linux]
 1. [D01] [Linux](https://github.com/RamaObama/s21_devops/tree/develop/linux) [300 XP, 100%]
 2. [D02] [Linux Network]() [???, ???%]
@@ -19,6 +19,8 @@
 5. [D05] [SimpleDocker]() [???, ???%]
 6. [D06] [CICD]() [???, ???%]
 7. [D0E-T] [DevOps Exam]() [???, ???%]
+> [C++]
+1. [CPP1] [s21_matrix+]() [???, ???%]
 ---
 ### Contacts
 - Languages 🌐: 🇷🇺 Russian, 🇺🇸 English, 🇨🇳 Chinese.
