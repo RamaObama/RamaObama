@@ -19,7 +19,7 @@
  Rocket.Chat: <a href="deltajed@student.21-school.ru">@deltajed</a>
 
  ~> <strong>ls language</strong> 
- Russian English, Chinese
+ Russian English Chinese
 
  ~> <strong>finger rama</strong>
  Login: rama                             Name: Ramin
@@ -34,6 +34,9 @@
  Plan:
   Learning \o/
 </pre>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=RamaObama.RamaObama&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)](https://github.com/RamaObama)
 [![GitHub Follow](https://img.shields.io/github/followers/RamaObama?label=followers&logo=github&style=for-the-badge&labelColor=black)](https://github.com/RamaObama)
