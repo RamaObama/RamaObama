@@ -36,6 +36,16 @@
 </pre>
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   7 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.65 %
+Bash       6 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+SQL        5 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+Text       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+CSV/TSV    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=RamaObama.RamaObama&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)](https://github.com/RamaObama)
