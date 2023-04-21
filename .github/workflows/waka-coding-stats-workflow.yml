@@ -17,4 +17,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: Updated the README
+          COMMIT_MESSAGE: ":memo: :: [wakatime] updated the list of languages used in 7 days"
