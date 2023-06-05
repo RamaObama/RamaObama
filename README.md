@@ -31,6 +31,7 @@
   - <a href ="https://github.com/RamaObama/s21_CPP">C++</a>
   - <a href ="https://github.com/RamaObama/s21_devops">Linux</a>
   - <a href ="https://github.com/RamaObama/s21_SQL">SQL</a>
+  - <a href ="https://github.com/RamaObama/s21_GO">GO</a>
  Plan:
   Learning \o/
 </pre>
