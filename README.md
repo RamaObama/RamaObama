@@ -26,12 +26,6 @@
  Directory: /home/rama                   Shell: /usr/bin/zsh
  Project:
   - <a href="https://github.com/RamaObama/dotfiles">dotfiles</a>
- Project [School 21]:
-  - <a href ="https://github.com/RamaObama/s21_C">C</a>
-  - <a href ="https://github.com/RamaObama/s21_CPP">C++</a>
-  - <a href ="https://github.com/RamaObama/s21_devops">Linux</a>
-  - <a href ="https://github.com/RamaObama/s21_SQL">SQL</a>
-  - <a href ="https://github.com/RamaObama/s21_GO">GO</a>
  Plan:
   Learning \o/
 </pre>
