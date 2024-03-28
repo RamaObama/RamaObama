@@ -33,10 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   9 mins          ██████████████▒░░░░░░░░░░   57.04 %
-Rust   7 mins          ██████████▒░░░░░░░░░░░░░░   41.74 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
