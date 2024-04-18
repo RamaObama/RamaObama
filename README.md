@@ -33,8 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   1 min           ███████████████████████▒░   93.19 %
-Rust   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
