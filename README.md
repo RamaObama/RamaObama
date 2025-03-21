@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 min           ████████████▓░░░░░░░░░░░░   51.04 %
-Rust       1 min           ███████████░░░░░░░░░░░░░░   44.17 %
-Other      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
