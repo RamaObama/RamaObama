@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       44 mins         ██████████████████████░░░   87.38 %
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+HTML       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
