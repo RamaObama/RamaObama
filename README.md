@@ -33,7 +33,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust   44 mins               ████████████████████▒░░░░   81.01 %
+TOML   10 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
 ```
 
 <!--END_SECTION:waka-->
