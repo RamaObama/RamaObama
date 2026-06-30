@@ -33,7 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       7 mins                ████████████▓░░░░░░░░░░░░   50.83 %
+TypeScript   5 mins                █████████░░░░░░░░░░░░░░░░   35.99 %
+Markdown     1 min                 ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
 ```
 
 <!--END_SECTION:waka-->
