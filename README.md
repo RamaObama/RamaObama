@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3        5 hrs 31 mins         ████████████░░░░░░░░░░░░░   48.08 %
-Markdown         3 hrs 14 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 %
-Godot Resource   1 hr 20 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Other            29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Python           22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+GDScript3        5 hrs 10 mins         ████████████▒░░░░░░░░░░░░   49.18 %
+Markdown         2 hrs 52 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 %
+Godot Resource   1 hr 20 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other            29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python           18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
