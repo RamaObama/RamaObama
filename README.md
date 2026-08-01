@@ -33,7 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown    27 mins               ████████████▒░░░░░░░░░░░░   49.61 %
+GDScript3   23 mins               ███████████░░░░░░░░░░░░░░   43.70 %
+Python      3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 ```
 
 <!--END_SECTION:waka-->
