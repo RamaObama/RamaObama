@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     8 mins                ███████████░░░░░░░░░░░░░░   43.84 %
-TypeScript   5 mins                ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Rust         3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-JSON         1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-TOML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
